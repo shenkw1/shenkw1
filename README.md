@@ -1,4 +1,4 @@
-### 👋 Welcome to my Github! I'm Kat.
+<h3 align="center">👋 Welcome! I'm Kat.</h3>
 
 - 🐝 Studying computer science at the Georgia Institute of Technology
 - 👤 She/her pronouns
