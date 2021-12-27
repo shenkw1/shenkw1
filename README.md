@@ -1,6 +1,6 @@
 ### 👋 Welcome to my Github! I'm Kat.
 
-🐝 Studying computer science at the Georgia Institute of Technology
+🐝 Studying computer science at the Georgia Institute of Technology\n
 👤 She/her pronouns
 🗯️ Interested in UI/UX, data science, and product design
 📫 Email me @ [`katherineshen@gatech.edu`]{mailto:katherineshen@gatech.edu)
