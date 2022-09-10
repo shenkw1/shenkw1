@@ -1,9 +1,9 @@
 <h3 align="center">👋 Welcome! I'm Kat.</h3>
 
-- 🐝 Studying computer science at the Georgia Institute of Technology
-- 👤 She/her pronouns
+- 🐝 Studying computer science at the Georgia Institute of Technology, with threads in networking and computer graphics
+- 👤 She/her
 - 🗯️ Interested in UI/UX, networking, and product design
-- 🌱 GTRI research assistant
+- 🔭 Research assistant @ the Georgia Tech Research Institute
 - 📫 Email me @ [`katherineshen@gatech.edu`](mailto:katherineshen@gatech.edu)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/katherinewshen/)
 
