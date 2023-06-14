@@ -3,7 +3,8 @@
 - 🐝 Studying computer science at the Georgia Institute of Technology, with threads in networking and computer graphics
 - 👤 She/her
 - 🗯️ Interested in anything frontend, computer graphics, networking, and product design
-- 🔭 Research assistant @ the Georgia Tech Research Institute
+- 🔭 Former research assistant @ the Georgia Tech Research Institute
+- 🌐 Current SDE Intern @ AWS
 - 📫 Email me @ [`katherineshen@gatech.edu`](mailto:katherineshen@gatech.edu)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/katherinewshen/)
 
