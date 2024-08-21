@@ -1,10 +1,9 @@
 <h3 align="center">👋 Welcome! I'm Kat.</h3>
 
-- 🐝 Studying computer science at the Georgia Institute of Technology, with threads in networking and computer graphics
+- 🐝 Computer science graduate from the Georgia Institute of Technology, with threads in networking and computer graphics
 - 🗯️ Interested in anything frontend, computer graphics, networking, and product design
-- 🔭 Former research assistant @ the Georgia Tech Research Institute
-- 🌐 Former SDE Intern @ AWS
-- 📫 Email me @ [`katherineshen@gatech.edu`](mailto:katherineshen@gatech.edu)
+- 🌐 Current SDE @ AWS
+- 📫 Email me @ [`katherineshen678@gmail.com`](mailto:katherineshen678@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/katherinewshen/)
 
 <!--
