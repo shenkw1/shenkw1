@@ -3,7 +3,6 @@
 - 🐝 Computer science graduate from the Georgia Institute of Technology, with threads in networking and computer graphics
 - 🗯️ Interested in anything frontend, computer graphics, networking, and product design
 - 🌐 Current SDE @ AWS
-- 📫 Email me @ [`katherineshen678@gmail.com`](mailto:katherineshen678@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/katherinewshen/)
 
 <!--
